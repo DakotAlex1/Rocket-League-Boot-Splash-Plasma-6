@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "alexander.hayk@gmail.com",
+                "Name": "Alex"
+            }
+        ],
+        "Description": "Rocket League Splash Screen",
+        "Id": "rocketleague",
+        "Name": "Rocket_League",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "1.0",
+        "Website": ""
+    }
+}
