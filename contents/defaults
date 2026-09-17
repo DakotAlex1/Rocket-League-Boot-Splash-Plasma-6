@@ -5,13 +5,13 @@ widgetStyle=kvantum
 ColorScheme=rocketleague
 
 [kdeglobals][Icons]
-Theme=candy-icons
+Theme=
 
 [kcminputrc][Mouse]
-cursorTheme=Sweet-cursors
+cursorTheme=
 
 [plasmarc][Theme]
-name=Sweet
+name=RocketBootSplash
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
